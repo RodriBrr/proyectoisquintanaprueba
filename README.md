@@ -5,7 +5,7 @@ Elaboro: Rodrigo Quintana Pérez
 
 Fases de desarrollo de software 
 
-- Prlanacion
+- Planeacion
 - Analisis
 - Diseño
 - Desarrollo
